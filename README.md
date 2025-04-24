@@ -53,5 +53,5 @@ This dashboard provides a detailed healthcare analysis designed to visualize and
 
  
 
-![sales Dashboard](https://github.com/Haruharun/sales_Report/blob/d6fec5868d714301fed05a577d9a18a3eadaf5bd/Screenshot%202025-03-08%20133125.png)
+![Healthcare Dashboard](https://github.com/Haruharun/Healthcare/blob/34170031aff56e7e6fb7d3fb4c950a354f51dbfd/Screenshot%202025-04-24%20114448.png)
 
