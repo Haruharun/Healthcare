@@ -5,7 +5,7 @@
  
 This dashboard provides a detailed healthcare analysis designed to visualize and track critical healthcare metrics. Its goal is to aid providers and administrators in understanding patient demographics, medical conditions, treatment costs, and hospital performance, enabling informed decision-making
 ## mysql query
-![mysql](https://github.com/Haruharun/sales_Report/blob/67d065fcd3c3836dc5f1f207f407338cc18dcd46/MY%20SQL%20Queries.docx)
+![mysql](https://github.com/Haruharun/Healthcare/blob/3f5b4aa0a011d2773a6fadc5314d7f16bbcab6f4/health%20queries.docx)
 
 ## Tasks Performed
 
@@ -20,42 +20,38 @@ This dashboard provides a detailed healthcare analysis designed to visualize and
  🔺Analysis: Analyzed the data to identify key trends, patterns, and insights.
 
 ## Key Features
+✅ Interactive Filters: Users can slice data by Gender, Blood Type, Age Group, Test Type, and Medication for tailored insights.
+
+✅ Comprehensive Visuals: A mix of pie charts, bar graphs, and stacked bar charts makes the data intuitive and easy to comprehend.
+
+✅ Highlighted Metrics: Key numbers like total billing ($1.42bn), average admission length (16 days), and patient count (56K) are clearly emphasized.
+
+✅ Comparative Analytics: Displays comparisons across demographics, medical conditions, and hospital performances.
 
 
- 🔺Total Sales: Displays the total sales amount with a comparison to the previous month.
+✅ User-Focused Design: The dashboard is structured for clarity, professionalism, and ease of navigation.
 
- 🔺Total Orders: Shows the total number of orders and their comparison to the previous month.
 
- 🔺Total Quantity: Indicates the total quantity sold with a comparison to the previous month.
-
- 🔺Sales Trends: A bar chart representing sales trends over the period with average sales marked.
-
- 🔺Sales by Weekday/Weekend: A calendar view highlighting sales distribution across weekdays and weekends.
-
- 🔺Sales by Store Location: Breakdown of sales by different store locations.
-
- 🔺Sales by Product Category: Sales distribution across various product categories.
-
- 🔺Top 10 Products: List of the top 10 products by sales amount.
-
- 🔺Sales by Days/Hours: Heatmap showing sales distribution by days of the week and hours of the day.
 
 ## Key Insights
 
+✅ Admissions by Gender: Females account for the highest admissions at 50% (28K), followed by males at 40% (22K), and others at 10% (6K).
 
- 🔺Total Sales Performance: Total sales amount with a comparison to the previous month, highlighting any significant changes.
+✅ Prevalent Blood Types: Blood type A+ is most common (19K patients), with O+ coming second (14K).
 
- 🔺 Order and Quantity Trends: Trends in the total number of orders and quantities sold, providing insights into customer buying behavior.
+✅ Condition Lengths: Hypertension and Arthritis show the longest average admission durations at 16 days each, slightly longer than Diabetes at 15 days.
 
- 🔺Sales Trends: Daily sales trends with average sales figures, identifying peak sales periods.
+✅ Most Diagnosed Conditions: Diabetes and Hypertension lead in diagnoses (14K each), trailed by Obesity (13K).
 
- 🔺Store Location Performance: Sales performance across different store locations, highlighting the best-performing stores.
+✅ Treatment Costs: Diabetes incurs the highest average billing, followed by Cancer and Hypertension.
 
- 🔺Product Category Performance: Sales distribution by product category, identifying the most and least popular categories.
+✅ Frequently Prescribed Conditions: Diabetes and Hypertension again top the list, with each prescribed 14K times.
 
- 🔺Top Products: Insights into the top-selling products, helping to identify key drivers of revenue.
+✅ Top Hospitals: Houston Methodist handles the most patients (20K), ahead of Johns Hopkins (11K).
 
- 🔺Sales by Time: Analysis of sales by days of the week and hours of the day, identifying peak sales times.
+✅ Most Prescribed Medication: Lipitor leads with 11,140 prescriptions, closely followed by Aspirin at 11,094.
+
+ 
 
 ![sales Dashboard](https://github.com/Haruharun/sales_Report/blob/d6fec5868d714301fed05a577d9a18a3eadaf5bd/Screenshot%202025-03-08%20133125.png)
 
